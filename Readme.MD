@@ -10,7 +10,7 @@ Responsive Restaurant website project with HTML, CSS nad JS.
 
 # GIF
 
-[](/images/GIF.gif)
+[/images/GIF.gif](/images/GIF.gif)
 
 # Link
 
